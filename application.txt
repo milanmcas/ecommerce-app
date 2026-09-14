@@ -33,6 +33,6 @@ Order Tracking
 - Customers can view order status.
 - Order status is displayed using standardized status values.
 
-stomer Profile
+Customer Profile
 - Customers can view their profile information.
 - Customers can update their profile information.
