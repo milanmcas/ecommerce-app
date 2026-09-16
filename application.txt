@@ -60,3 +60,4 @@ Wishlist Enhancement
 - Customers can remove products from their wishlist.
 - Customers can move wishlist products to the shopping cart quickly.
 
+
