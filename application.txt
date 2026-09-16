@@ -33,6 +33,15 @@ Order Tracking
 - Customers can view order status.
 - Order status is displayed using standardized status values.
 
+
+Payment Processing
+- Customers can complete payments securely.
+- Payment status is recorded for each order.
+
+Order Management
+- Customers can view their orders.
+- Customers can review previous order details.
+=======
 Customer Profile
 - Customers can view their profile information.
 - Customers can update their profile information.
@@ -40,3 +49,4 @@ Customer Profile
 Order History
 - Customers can view their previous orders.
 - Customers can review the details of completed orders.
+
