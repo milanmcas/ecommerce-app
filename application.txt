@@ -65,3 +65,8 @@ Payment Timeout Handling
 - Timed-out payments are marked for retry.
 
 
+Payment Timeout Hotfix
+- Timed-out payments are clearly identified.
+- Customers receive a retry option when payment processing times out.
+
+
