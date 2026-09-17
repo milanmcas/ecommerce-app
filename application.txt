@@ -69,4 +69,8 @@ Payment Timeout Hotfix
 - Timed-out payments are clearly identified.
 - Customers receive a retry option when payment processing times out.
 
+Order Notifications
+- Customers receive notifications when their order status changes.
+- Customers can manage their notification preferences.
+
 
