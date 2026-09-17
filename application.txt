@@ -69,4 +69,6 @@ Payment Timeout Hotfix
 - Timed-out payments are clearly identified.
 - Customers receive a retry option when payment processing times out.
 
-
+Order Cancellation
+- Customers can cancel eligible orders.
+- Cancellation status is recorded for the order.
