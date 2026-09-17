@@ -78,6 +78,7 @@ Customer Reviews
 - Customers can submit reviews for purchased products.
 - Customers can view reviews submitted by other customers.
 
+
 Search Analytics
 - Search activity can be recorded.
 - Search usage can be reviewed.
@@ -85,5 +86,6 @@ Search Analytics
 Order Reports
 - Order reports can be generated.
 - Order information can be summarized for review.
+
 
 
